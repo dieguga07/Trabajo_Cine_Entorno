@@ -1,4 +1,4 @@
-class Cliente(nombre:String,DNI:String,edad:Int) {
+open class Cliente(nombre:String,DNI:String,edad:Int) {
 
 
 val nombreCliente = nombre
